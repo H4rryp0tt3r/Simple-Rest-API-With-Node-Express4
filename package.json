@@ -1,0 +1,7 @@
+{
+    "name": "Simple-Rest-API-With-Node-Express4",
+    "main": "server.js",
+    "dependencies": {
+        "express": "~4.0.0"
+    }
+}
